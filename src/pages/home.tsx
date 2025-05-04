@@ -24,7 +24,7 @@ const Home = () => {
         
         <div className="container mx-auto px-4 relative z-10 text-center">
           <h1 className="text-4xl md:text-5xl font-bold text-[#FFFFFF] mb-4 drop-shadow-lg">
-            Taxi Primjer – Vaša Pouzdana Vožnja
+          Vaša Pouzdana Vožnja
           </h1>
           <p className="text-xl md:text-2xl text-[#FFB703] mb-8 animate-fade-in">
             Brza i sigurna taksi usluga u Zadru
