@@ -68,7 +68,7 @@ const Home = () => {
       <section className="py-16 bg-[#FFFFFF]">
         <div className="container mx-auto px-4">
           <h2 className="text-3xl font-semibold text-center text-[#1B263B] mb-8">
-            Zašto Odabrati Taxi Primjer?
+            Zašto Odabrati Chupapi Munyanyo?
           </h2>
           <div className="max-w-2xl mx-auto">
             <ul className="space-y-4 text-[#415A77] text-lg">
